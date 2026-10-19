@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "balance patch", "balance patch\balance patch.csproj", "{A7E11D15-9F2A-4F94-8138-DC5104A4DBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E11D15-9F2A-4F94-8138-DC5104A4DBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E11D15-9F2A-4F94-8138-DC5104A4DBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E11D15-9F2A-4F94-8138-DC5104A4DBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E11D15-9F2A-4F94-8138-DC5104A4DBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E63C8D47-6A33-48A6-AD1A-9F3F92B08699}
+	EndGlobalSection
+EndGlobal
